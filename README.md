@@ -25,14 +25,14 @@ This project is a front-end implementation of a restaurant website designed to p
 
 ### Homepage
 
-![Homepage](./1.png)
+![Homepage](./public/1.png)
 
-![Menu](./2.png)
+![Menu](./public/2.png)
 
 
-![Services](./1.pdf)
+![Services](./public/1.pdf)
 
-![Reservation](./2.pdf)
+![Reservation](./public/2.pdf)
 
 ---
 
